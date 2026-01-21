@@ -18,6 +18,7 @@ MYSQL_DB=database
 JWT_SECRET=super_secret_key
 JWT_EXPIRES_IN=7d
 OPENWEATHER_API_KEY=API_KEY
+```
 
 ## Backend Setup
 ```bash
